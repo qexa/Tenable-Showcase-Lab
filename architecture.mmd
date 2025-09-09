@@ -1,0 +1,6 @@
+%% Mermaid diagram referenced by README
+flowchart TD
+  A[Assets JSON] --> B(Models)
+  C[Findings JSON] --> B
+  B --> D[Analyzer: scores & ranking]
+  D --> E[CLI: summarize/exposure/benchmark]

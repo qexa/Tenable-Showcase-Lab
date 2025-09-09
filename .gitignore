@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.uv/
+
+# Editors
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+site/
+
+# Reports
+exposure_report.md
+coverage.xml
+.htmlcov/
+.mypy_cache/
+.ruff_cache/

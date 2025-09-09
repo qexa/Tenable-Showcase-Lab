@@ -1,0 +1,13 @@
+site_name: Tenable Showcase Lab
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Quickstart: quickstart.md
+  - Compliance: compliance.md
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
