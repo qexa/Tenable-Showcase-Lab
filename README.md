@@ -1,5 +1,5 @@
 # Tenable Showcase Lab
-[![CI](https://github.com/your-org/tenable-showcase-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/tenable-showcase-lab/actions/workflows/ci.yml)
+[![CI](https://github.com/qexa/tenable-showcase-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/qexa/tenable-showcase-lab/actions/workflows/ci.yml)
 [![Docs](https://img.shields.io/badge/docs-mkdocs--material-blue)](./docs/index.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
